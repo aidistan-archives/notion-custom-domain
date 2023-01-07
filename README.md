@@ -27,7 +27,7 @@ services:
     ports:
         - 3000:3000
     environment:
-        START_PAGE_URL: https://notion-custom-domain.hosso.co
+        START_PAGE_URL: https://fluorescent-trawler-4fe.notion.site/Notion-Custom-Domain-2a8cdabb8ab440579ca40950d79a04b5
         GA_TRACKING_ID:
 ```
 
