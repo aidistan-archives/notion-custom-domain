@@ -1,7 +1,8 @@
 # Notion Custom Domain
 
-A rework of [hosso/notion-custom-domain](https://github.com/hosso/notion-custom-domain).
+> This repo was archived since [the original failed](hosso/notion-custom-domain#17).
 
+A rework of [hosso/notion-custom-domain](https://github.com/hosso/notion-custom-domain).
 
 ## What's different?
 
